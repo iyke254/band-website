@@ -1,5 +1,19 @@
 h1{
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLsjk07L4lK_8oowb0acHFg7PEY_C1XWRfmTopicasx2UAn1Od5yVSCln);
   font-size: 60px;
-  
+  color: red;
+  text-align: center;
+
+
+}
+img{
+  float: left;
+}
+.sidebar{
+  background-color: #5adda9;
+  float: right;
+  border: 5px black;
+  padding: 4px;
+  margin: 10px;
+
 }
